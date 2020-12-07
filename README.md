@@ -11,8 +11,8 @@ Foogle - программа для индексирования локальны
 2) "-m" - морфология(доступен только русский язык)
 
 Пример запроса:
-python main.py -d docs
-python main.py -w кот
-python main.py -w "кот or гермиона" -i
-python main.py -w "кот or гермиона and гном" -m -i
++ python main.py -d docs
++ python main.py -w кот
++ python main.py -w "кот or гермиона" -i
++ python main.py -w "кот or гермиона and гном" -m -i
 
