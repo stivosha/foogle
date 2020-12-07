@@ -15,3 +15,4 @@ python main.py -d docs
 python main.py -w кот
 python main.py -w "кот or гермиона" -i
 python main.py -w "кот or гермиона and гном" -m -i
+
